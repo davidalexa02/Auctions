@@ -22,7 +22,8 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7043;http://localhost:5009;https://bid-genius-7c3e1dd65b36.herokuapp.com/",
+      "applicationUrl": "https://localhost:7043;http://localhost:5009",
+ 
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
